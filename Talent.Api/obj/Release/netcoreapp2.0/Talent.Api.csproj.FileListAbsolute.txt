@@ -1,0 +1,17 @@
+C:\Users\tatla\source\repos\talent-competition\Talent.Api\bin\Release\netcoreapp2.0\appsettings.Development.json
+C:\Users\tatla\source\repos\talent-competition\Talent.Api\bin\Release\netcoreapp2.0\appsettings.json
+C:\Users\tatla\source\repos\talent-competition\Talent.Api\bin\Release\netcoreapp2.0\Talent.Api.deps.json
+C:\Users\tatla\source\repos\talent-competition\Talent.Api\bin\Release\netcoreapp2.0\Talent.Api.runtimeconfig.json
+C:\Users\tatla\source\repos\talent-competition\Talent.Api\bin\Release\netcoreapp2.0\Talent.Api.runtimeconfig.dev.json
+C:\Users\tatla\source\repos\talent-competition\Talent.Api\bin\Release\netcoreapp2.0\Talent.Api.dll
+C:\Users\tatla\source\repos\talent-competition\Talent.Api\bin\Release\netcoreapp2.0\Talent.Api.pdb
+C:\Users\tatla\source\repos\talent-competition\Talent.Api\bin\Release\netcoreapp2.0\Talent.Common.dll
+C:\Users\tatla\source\repos\talent-competition\Talent.Api\bin\Release\netcoreapp2.0\Talent.Common.pdb
+C:\Users\tatla\source\repos\talent-competition\Talent.Api\obj\Release\netcoreapp2.0\Talent.Api.csproj.AssemblyReference.cache
+C:\Users\tatla\source\repos\talent-competition\Talent.Api\obj\Release\netcoreapp2.0\Talent.Api.AssemblyInfoInputs.cache
+C:\Users\tatla\source\repos\talent-competition\Talent.Api\obj\Release\netcoreapp2.0\Talent.Api.AssemblyInfo.cs
+C:\Users\tatla\source\repos\talent-competition\Talent.Api\obj\Release\netcoreapp2.0\Talent.Api.csproj.CoreCompileInputs.cache
+C:\Users\tatla\source\repos\talent-competition\Talent.Api\obj\Release\netcoreapp2.0\Talent.Api.csproj.CopyComplete
+C:\Users\tatla\source\repos\talent-competition\Talent.Api\obj\Release\netcoreapp2.0\Talent.Api.dll
+C:\Users\tatla\source\repos\talent-competition\Talent.Api\obj\Release\netcoreapp2.0\Talent.Api.pdb
+C:\Users\tatla\source\repos\talent-competition\Talent.Api\obj\Release\netcoreapp2.0\Talent.Api.genruntimeconfig.cache
